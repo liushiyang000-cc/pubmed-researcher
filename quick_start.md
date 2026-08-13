@@ -3,9 +3,9 @@
 ### TODAY (Do These First)
 
 1. Fiverr - Upload 3 gigs
-   - Gig 1: Medical Literature Review (-80)
-   - Gig 2: SCI Paper Editing (-100)
-   - Gig 3: PubMed Data Extraction (-50)
+   - Gig 1: Medical Literature Review (-25-80)
+   - Gig 2: SCI Paper Editing (-30-100)
+   - Gig 3: PubMed Data Extraction (-20-50)
    Portfolio images: portfolio_project1/2/3.png
    Gig covers: fiverr_gig1/2/3_cover.png
    Location: D:/github/pubmed-researcher/
@@ -37,7 +37,7 @@
 
 | Platform | Time to First | Monthly Potential |
 |----------|---------------|-------------------|
-| Fiverr | 1-2 weeks | -800 |
+| Fiverr | 1-2 weeks | $200-$800 |
 | Upwork | 1-3 weeks | -2000 |
 | GitHub Sponsors | 1-2 months | -200 |
 | Gumroad | 2-4 weeks | -500 |

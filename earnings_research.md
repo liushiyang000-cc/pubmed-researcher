@@ -3,25 +3,25 @@
 ## Top Platforms (Ranked by Earning Potential)
 
 ### 1. Fiverr - Medical Writing Services
-- Price: -100 per gig
+- Price: $25-100 per gig
 - Best for: Literature reviews, SCI editing, PubMed extraction
 - Your advantage: Doctor + PhD identity builds trust
 - Action: Already have 3 gigs created, upload portfolio images
 
 ### 2. Upwork - Medical Research Consulting
-- Price: -80/hour
+- Price: $30-80/hour
 - Best for: Long-term research projects, grant writing
 - Your advantage: Clinical + research background
 - Action: Create profile from UPWORK_PROFILE.md
 
 ### 3. GitHub Sponsors - Passive Income
-- Price: -50/month per sponsor
+- Price: $5-50/month per sponsor
 - Best for: Open source tool monetization
 - Your advantage: Working pubmed-researcher tool
 - Status: Application pending (24-48hrs)
 
 ### 4. Gumroad - Digital Products
-- Price: .99-29.99 per product
+- Price: $9.99-29$9.99 per product
 - Best for: Templates, guides, scripts
 - Your advantage: Ready-made products in GUMROAD_PRODUCTS.md
 - Action: Upload PubMed Researcher as a product
@@ -44,7 +44,7 @@
 - Action: Use TWEETS.md and REDDIT_POSTS.md
 
 ### 8. Online Courses - Udemy/Skillshare
-- Price: -50 per enrollment
+- Price: $5-50 per enrollment
 - Best for: Scalable passive income
 - Your advantage: Teach medical literature research
 - Action: Record How to Search PubMed Like a Pro
