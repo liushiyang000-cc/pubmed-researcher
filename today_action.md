@@ -6,25 +6,25 @@ URL: https://www.fiverr.com/seller/create_new_gig
 ### Gig 1: Medical Literature Review
 Title: I will write a comprehensive medical literature review for your research
 Category: Writing > Research & Essays
-Basic:  | 3 days
-Standard:  | 5 days
-Premium:  | 7 days
+Basic:    | 3 days
+Standard:      | 5 days
+Premium:    | 7 days
 Upload: fiverr_gig1_cover.png + portfolio_project1.png
 
 ### Gig 2: SCI Paper Editing
 Title: I will edit and proofread your SCI medical research paper
 Category: Writing > Editing & Proofreading
-Basic:  | 2 days
-Standard:  | 4 days
-Premium:  | 7 days
+Basic:      | 2 days
+Standard:      | 4 days
+Premium:    | 7 days
 Upload: fiverr_gig2_cover.png + portfolio_project2.png
 
 ### Gig 3: PubMed Data Extraction
 Title: I will extract and analyze PubMed medical literature data
 Category: Data > Data Processing
-Basic:  | 2 days
-Standard:  | 4 days
-Premium:  | 5 days
+Basic:      | 2 days
+Standard:      | 4 days
+Premium:      | 5 days
 Upload: fiverr_gig3_cover.png + portfolio_project3.png
 
 ## Step 2: Register Upwork (10 min)
