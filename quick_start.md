@@ -1,6 +1,7 @@
 ## Quick Earning Checklist
 
 ### TODAY (Do These First)
+
 1. Fiverr - Upload 3 gigs
    - Gig 1: Medical Literature Review (-80)
    - Gig 2: SCI Paper Editing (-100)
@@ -19,12 +20,14 @@
    - Reddit: Post in r/medicalschool from REDDIT_POSTS.md
 
 ### THIS WEEK
+
 - Apply to 5-10 Upwork jobs daily
 - Post on Fiverr Gigs promotion
 - Respond to any Fiverr messages quickly
 - Build GitHub Stars (share on Twitter/Reddit)
 
 ### PASSIVE INCOME (Set and Forget)
+
 - GitHub Sponsors: Waiting for approval
 - Gumroad: Upload products from GUMROAD_PRODUCTS.md
 - Substack: Start newsletter (long-term)
